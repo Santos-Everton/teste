@@ -1,3 +1,4 @@
 Teste
 adicionando funcionalidade x
 adicionando funcionalidade y
+adicionar funcionalidade z
